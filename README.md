@@ -1,6 +1,6 @@
 # Igniters
 
-[The App](https://globtrotters-igniters.herokuapp.com/)
+[The App]([https://igniters-6fbb75bc7925.herokuapp.com/])
 
 ## Description
 
