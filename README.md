@@ -223,7 +223,7 @@ A repository of women's rights organizations, Igniters is a power tool for women
 
 ### Deploy Link
 
-[The App](https://globtrotters-igniters.herokuapp.com/)
+[The App (currently not working)](https://globtrotters-igniters.herokuapp.com/)
 
 ### Slides Link
 
